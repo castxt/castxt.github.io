@@ -5,4 +5,4 @@ Hi there, adventurer! I have no idea how you fell down there, but really, who gi
 ## life-saving part
 - im done being everyones prisoner
 - i jsut feel trapped\
-- ;]
+- we didnt mnean to
