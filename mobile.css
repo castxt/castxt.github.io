@@ -1,0 +1,81 @@
+body {
+  background-color: #2d2a2a;
+  color: #fff;
+  font-family: comic;
+  margin: 50px 100px 75px 25px;
+  font-size: 15px;
+
+}
+input {
+  width: 100px;
+  padding: 10px;
+  border: 2px solid #382e2e;
+  margin: 0px 0px 0px 50px;
+  color: #ffffff;
+  border-radius: 5px;
+  background-color: #d7bcbc;
+}
+
+button {
+  font-family: comic;
+  border-radius: 10px;
+  background-color: #5a5050;
+  color: #ffffff
+}
+
+h2, h3, h4, h5, h6{
+  margin-left: 15px;
+}
+
+p{
+  margin-left: 30px;
+}
+
+ul{
+  margin-left: 50px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #ffffff;
+  font-weight: bold;
+}
+
+
+a {
+  color: #fff;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #ccc;
+  text-decoration: underline;
+}
+
+p {
+  margin-bottom: 1em;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+  margin: 0 auto;
+}
+
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+.rounded {
+  border-radius: 5px;
+}
+
+@font-face {
+  font-family: "comic";
+  src: url('COMIC.TTF') format('truetype');
+}
