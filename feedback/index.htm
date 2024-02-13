@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta name="description" content="thomas' complain room" />
+
+    <style>
+        img {
+            width: 100px;
+            height: 100px;
+            position: absolute;
+        }
+    </style>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>feedback</title>
+    <link rel="stylesheet" media="print" href="print.css" />
+    <script>
+        var userAgent = navigator.userAgent;
+        var isMobile = /(iPhone|iPad|Android|Windows Phone)/i.test(userAgent);
+
+        var cssFile = "/style.css";
+        if (isMobile) {
+            cssFile = "/mobile.css";
+        }
+
+        var link = document.createElement("link");
+        link.rel = "stylesheet";
+        link.href = cssFile;
+        document.head.appendChild(link);
+    </script>
+    <!-- <script type="application/javascript">
+         function getIP(json) {
+           if (json.ip = "192.168.1.2") {
+               window.location = "/not-approved";
+           }
+         }
+         </script>-->
+</head>
+
+<body>
+    <header>
+        <h1>feedback page</h1>
+        <hr>
+    </header>
+    <h2>about this</h2>
+    <p>what?</p>
+    <script src="https://utteranc.es/client.js" repo="castxt/castxt.github.io" issue-term="pathname" label="comment"
+        theme="gruvbox-dark" crossorigin="anonymous" async>
+        </script>
+</body>
+
+</html>
