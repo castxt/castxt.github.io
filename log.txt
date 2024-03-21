@@ -1,6 +1,7 @@
+mmm.dd.yyyy - trr;bad;neu;fne;exc <"[comment]">
 mar.19.2024 - bad <"oh wow,">
 mar.20.2024 - bad <"i need to lock in">
-mar.21.2024
+mar.21.2024 - fne <"hey its alright today please don't mess up tomorrow">
 mar.22.2024
 mar.23.2024
 mar.24.2024
