@@ -2,11 +2,11 @@ mmm.dd.yyyy - trr;bad;neu;fne;exc <"[comment]">
 mar.19.2024 - bad <"oh wow,">
 mar.20.2024 - bad <"i need to lock in">
 mar.21.2024 - fne <"hey its alright today please don't mess up tomorrow">
-mar.22.2024
-mar.23.2024
-mar.24.2024
-mar.25.2024
-mar.26.2024
+mar.22.2024 - fne
+mar.23.2024 - neu
+mar.24.2024 - fne
+mar.25.2024 - bad <"you didn't have to steal it from me i loved it so much and its rare too what is wrong with you">
+mar.26.2024 - bad <"5 mins couldve prevented that, my fault. please, give me one last chance, i can fix myself">
 mar.27.2024
 mar.28.2024
 mar.29.2024
