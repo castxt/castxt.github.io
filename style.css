@@ -19,10 +19,10 @@ letter-spacing:-0.06em;
 }
 
 .b {
-  align-items: center;
+  text-align: center;
   font-size: larger;
 }
 
 .c {
-	align-items: center
+	text-align: center
   }
