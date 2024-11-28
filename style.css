@@ -5,11 +5,11 @@
 	--nc-tx-2: #181b17;
 	--nc-bg-1: #E2F4C5;
 	--nc-bg-2: #A8CD9F;
-	--nc-bg-3: #58A399;
-	--nc-lk-1: #189BCC;
-	--nc-lk-2: #58b7e3;
+	--nc-bg-3: #58a38c;
+	--nc-lk-1: #51b1d4;
+	--nc-lk-2: #8cd5f7;
 	--nc-lk-tx: #FFFFFF;
-	--nc-ac-1: #B5C18E;
+	--nc-ac-1: #acbe70;
     --nc-ac-tx: #0C4047;
 }
 
@@ -19,5 +19,10 @@ letter-spacing:-0.06em;
 }
 
 .b {
+  align-items: center;
   font-size: larger;
 }
+
+.c {
+	align-items: center
+  }
