@@ -16,7 +16,7 @@
 
 body {
 letter-spacing:-0.06em;
-line-height: 10em;
+
 }
 
 .b {
@@ -33,3 +33,6 @@ line-height: 10em;
 	font-size: larger;
  }
   
+ .t {
+	line-height: 1em;
+ }
