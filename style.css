@@ -16,6 +16,7 @@
 
 body {
 letter-spacing:-0.06em;
+line-height: 1em;
 
 }
 
@@ -31,8 +32,4 @@ letter-spacing:-0.06em;
 
 .d {
 	font-size: larger;
- }
-  
- .t {
-	line-height: 1em;
  }
